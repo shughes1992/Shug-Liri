@@ -1,9 +1,9 @@
 # Shug-Liri
 
-<h1>
+<h2>
 
 Shug-Liri is a node.js language interpretation and recognition interface application.
-</h1>
+</h2>
 
 <p>
 
