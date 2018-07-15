@@ -14,4 +14,4 @@ End users have the option to:
 3. View the details surrounding any particular movie (i.e. Title, Year Release, IMDB Rating, Country, Summary & Lead Actors/Actresses)
 
 </p>
-![shug-liri-screenshot](https://user-images.githubusercontent.com/34173580/41266621-c0a46928-6dc5-11e8-929f-c047dff8dfaa.jpg)
+![shug-liri-screenshot](https://user-images.githubusercontent.com/34173580/42736080-846d8458-882d-11e8-8cce-cf0bc180b13b.jpg)
